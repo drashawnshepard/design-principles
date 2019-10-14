@@ -1,5 +1,5 @@
 body {
-  font-family: arial;
+  font-family: oswald;
 }
 
 .container {
@@ -23,7 +23,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #8B1F41;
+  background-color: #017F12;
   color: white;
 }
 
@@ -33,7 +33,7 @@ main {
 }
 
 nav {
-  background-color: #E87722;
+  background-color: #FFEE4D;
   padding: 20px;
 
 }
@@ -45,7 +45,7 @@ nav li {
 
 aside {
   padding: 20px;
-  background-color: #75787B;
+  background-color: #A7B0A8;
   color: white;
 }
 
@@ -58,7 +58,7 @@ footer {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #8B1F41;
+  background-color: #017F12;
   color: white;
 }
 
